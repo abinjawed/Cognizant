@@ -1,0 +1,16 @@
+
+It is not possible to clone company  instance to your private instance.
+
+Reasons:
+--> private instance is very small data storage size and it does not have capacity to store your company data in your private instance.
+
+--> You cannot use personal developer instance for commercial purpose.
+
+---> Due to security reasons, servicenow is not providing cloning options from your company instance to your personal instance.
+
+Workaround:-
+--> You may request permission to capture items in update sets and move them over.
+
+--> You may request manually recreating the configurations (or moved scoped aps), unless you have all the update sets available.
+If your company absolutely needs an additional cloned instance I would work with your sales rep to make that happen whether permanent
+or temporarily.
