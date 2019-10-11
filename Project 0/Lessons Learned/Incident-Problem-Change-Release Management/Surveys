@@ -1,1 +1,21 @@
 
+-After you close the incident, when state is set to resolved or closed complete, a survey should be triggered.
+
+-Type 'trigger conditions' in the filter navigator and you can check the conditions for surveys
+-Q: so I see them in the table?
+-A: yes
+
+-and also you can check questions in surveys
+-so then they are assessment metrics
+
+Step One: Look up “Trigger Conditions” in the Application Navigator.
+
+Step Two: Click on “Assessment”
+
+Step Three: Scroll down to “Survey Instances.”
+
+Step Four: Go to “Trigger ID: INC######”
+
+Step Five: Test out a ticket (either Incident, the Change Request, ect).
+
+Step Six: Look to see if a new assessment was triggered under your ticket number.
